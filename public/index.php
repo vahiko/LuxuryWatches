@@ -1,1 +1,3 @@
-//this is the front-end-controller
+<?php
+
+require_once dirname(__DIR__).'/config/init.php';
