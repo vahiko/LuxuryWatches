@@ -85,4 +85,17 @@ class Router
         return lcfirst(self::upperCamelCase($name));
     }
 
+    // we use this function to get url part without explicit get parameters, otherwise explicit get parameters afteer '?'
+    // would be interpreted as the part of controller or action name and give routing error
+    public static function removeQueryString($url){
+       if($url){
+           $params = explode('&', $url, 2); // we divide in two parties the url by '&' symbol
+            if(false===strpos($params[0], '=')){ //if in the first part there is no '=' symbol it means that it is nonexplicit gte parameter of url
+                return rtrim($params[0], '/');   // we return taht part as url to routing
+            }else{
+                return ''; // otherwise we return empty space to mention that default controller and action should be called
+            }
+       }
+    }
+
 }

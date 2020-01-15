@@ -31,9 +31,11 @@ class View
 
     // this function will creat the view with layout
     public function render($data){
-        //we create the file of the view
-        $viewFile = APP."/views/{$this->prefix}{$this->controller}/{$this->view}.php";
-        // if the file exists with include that file
+        if(is_array($data)) extract($data); // if $data is an array we extract appropriate variables from array
+        // that has been constructed by php function compact() in the appropriate action
+
+        $viewFile = APP."/views/{$this->prefix}{$this->controller}/{$this->view}.php";//we create the file of the view
+        // if the file exists we include that file
         if(is_file($viewFile)){
             //we open the buffer and put the output into buffer and write it back into a variable $content, in order to not show the view without layout
             ob_start();
