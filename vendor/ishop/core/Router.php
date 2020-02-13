@@ -26,6 +26,7 @@ class Router
 
     // this function receives urls from address bar
     public static function dispatch($url){
+        $url=self::removeQueryString($url); //we parse the url and leave only the part before symbole ?
         if(self::matchRoute($url))
         {
             $controller = 'app\controllers\\'.self::$route['prefix'].self::$route['controller'].'Controller';

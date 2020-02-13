@@ -1,228 +1,114 @@
-[2020-01-06 04:21:10] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
+[2020-01-17 07:22:38] Error text: No connection to db | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Db.php | Line : 
+        16 
 ==========
-[2020-01-06 04:22:02] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:22:27] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:22:42] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:22:46] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:22:55] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:23:50] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:24:13] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:24:23] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:37:35] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:40:51] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:40:53] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:40:54] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:40:55] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:41:06] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 04:41:08] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 05:40:45] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 05:41:18] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 05:41:48] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 05:42:38] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-06 05:43:58] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:28:17] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:28:17] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:34:15] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:34:23] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:34:50] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 02:35:42] Error text: Page not available | File : D:\OSPanel\domains\luxwatches.web\public\index.php | Line : 
-        9 
-==========
-[2020-01-08 07:24:23] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        33 
-==========
-[2020-01-08 07:47:14] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        34 
-==========
-[2020-01-08 07:57:15] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-08 07:57:29] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        36 
-==========
-[2020-01-08 07:57:44] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-08 07:57:53] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        36 
-==========
-[2020-01-08 07:58:52] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        36 
-==========
-[2020-01-08 07:59:10] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-08 08:00:42] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-08 08:00:55] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        36 
-==========
-[2020-01-08 08:01:19] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        36 
-==========
-[2020-01-08 08:08:48] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:09:02] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:09:56] Error text: The controller app\controller\PageController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:10:14] Error text: The controller app\controller\PageController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:12:28] Error text: The controller app\controller\PageController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:12:50] Error text: The controller app\controller\MainController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:13:22] Error text: The controller app\controller\MainController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:13:24] Error text: The controller app\controller\MainController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:15:18] Error text: The controller app\controller\MainController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:15:46] Error text: Class 'ishop\Exception' not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-08 08:16:16] Error text: The action app\controllers\MainController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-08 08:18:44] Error text: The controller app\controllers\PageController does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        41 
-==========
-[2020-01-08 08:20:42] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        44 
-==========
-[2020-01-10 03:04:02] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-10 03:04:21] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-10 03:35:13] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-10 03:37:30] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        38 
-==========
-[2020-01-10 05:44:31] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-10 06:20:44] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
-        44 
-==========
-[2020-01-10 06:21:10] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        39 
-==========
-[2020-01-15 04:07:45] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        45 
-==========
-[2020-01-15 05:52:50] Error text: Class 'app\controllers\App' not found | File : D:\OSPanel\domains\luxwatches.web\app\controllers\MainController.php | Line : 
-        10 
-==========
-[2020-01-15 22:37:55] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        45 
-==========
-[2020-01-15 23:47:01] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:47:32] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:48:46] Error text: The action app\controllers\PageController::indexAction does not exist | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        40 
-==========
-[2020-01-15 23:49:00] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:49:17] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:54:26] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:56:35] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-15 23:59:46] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:01:14] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:01:46] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:25:48] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:26:09] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
-        47 
-==========
-[2020-01-16 00:26:36] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:26:37] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========
-[2020-01-16 00:32:17] Error text: View not found D:\OSPanel\domains\luxwatches.web/app/views/Page/view.php | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\base\View.php | Line : 
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:29:53] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:37:23] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:49:45] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-01-18 08:59:19] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-09 20:02:14] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-09 20:02:24] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-11 22:44:21] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-11 22:44:41] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-11 22:47:28] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-11 22:58:17] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
+        46 
+==========
+[2020-02-13 07:39:33] Error text: Page not found | File : D:\OSPanel\domains\luxwatches.web\vendor\ishop\core\Router.php | Line : 
         46 
 ==========

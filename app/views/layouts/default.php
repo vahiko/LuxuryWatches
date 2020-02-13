@@ -11,5 +11,12 @@
 <body>
     <h1>Layout DEFAULT</h1>
 <?=$content;?>
+<?php
+$logs = \RedBeanPHP\R::getDatabaseAdapter()
+    ->getDatabase()
+    ->getLogger();
+
+$logs->grep( 'SELECT' );
+?>
 </body>
 </html>
